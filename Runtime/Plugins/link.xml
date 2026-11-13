@@ -1,0 +1,4 @@
+<linker>
+  <assembly fullname="SUD" preserve="all" ignoreIfMissing="1"/>
+  <assembly fullname="Sud.UnityExporter.Runtime" preserve="all"/>
+</linker>
