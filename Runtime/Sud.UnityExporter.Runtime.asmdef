@@ -1,0 +1,7 @@
+{
+  "name": "Sud.UnityExporter.Runtime",
+  "references": [],
+  "overrideReferences": true,
+  "precompiledReferences": ["SUD.dll"],
+  "autoReferenced": true
+}

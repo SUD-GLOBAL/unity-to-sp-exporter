@@ -1,0 +1,6 @@
+{
+  "name": "Sud.UnityExporter.Editor",
+  "references": [],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

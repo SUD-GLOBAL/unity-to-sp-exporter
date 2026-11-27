@@ -1,0 +1,7 @@
+{
+  "name": "com.sud.unity-exporter",
+  "displayName": "unity-to-sp-exporter",
+  "version": "1.0.8",
+  "unity": "2022.3",
+  "description": "将 Unity WebGL 项目导出为 SUD 小游戏。"
+}
